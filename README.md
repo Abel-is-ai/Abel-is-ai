@@ -13,4 +13,4 @@ Fuera de mi ámbito profesional, soy un catador de café no profesional, fan de 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/[my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com](https://abel-is-ai.vercel.app/)/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abel-is-ai.vercel.app/)
