@@ -9,7 +9,7 @@ Fuera de mi ámbito profesional, soy un catador de café no profesional, fan de 
 
 # Stack
 
-![Mis skills](https://skillicons.dev/icons?i=laravel,cpp,py,java,github,mysql,mongodb,androidstudio)
+![Mis skills](https://skillicons.dev/icons?i=laravel,cpp,py,java,javascript,mysql,mongodb,androidstudio,linux,github)
 
 
 ## 🔗 Links
